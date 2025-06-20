@@ -1,0 +1,24 @@
+{
+  "slc-cli": {
+    "latest": {
+      "windows-x64": "https://www.silabs.com/documents/login/software/slc_cli_windows.zip",
+      "windows-x86": "https://www.silabs.com/documents/login/software/slc_cli_windows.zip",
+      "darwin-x64": "https://www.silabs.com/documents/login/software/slc_cli_mac.zip",
+      "darwin-arm64": "https://www.silabs.com/documents/login/software/slc_cli_mac_aarch64.zip",
+      "linux-x64": "https://www.silabs.com/documents/login/software/slc_cli_linux.zip",
+      "linux-arm64": "https://www.silabs.com/documents/login/software/slc_cli_linux.zip",
+      "linux-arm32": "https://www.silabs.com/documents/login/software/slc_cli_linux.zip"
+    }
+  },
+  "zap": {
+    "v2024.12.13": {
+      "windows-x64": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-windows-x64.zip",
+      "windows-x86": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-windows-x86.zip",
+      "darwin-x64": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-mac-x64.zip",
+      "darwin-arm64": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-mac-arm64.zip",
+      "linux-x64": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-linux-x64.zip",
+      "linux-arm64": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-linux-arm64.zip",
+      "linux-arm32": "https://github.com/project-chip/zap/releases/download/v2024.12.13/zap-linux-arm32.zip"
+    }
+  }
+} 
